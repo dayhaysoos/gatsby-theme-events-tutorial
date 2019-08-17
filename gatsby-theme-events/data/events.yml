@@ -1,0 +1,15 @@
+-name: FV Cup
+  location: Malaysia
+  start_date: 08/24/2019
+  end_state: 02/25/2019
+  url: https://smash.gg/tournament/fv-cup-2019-tekken-world-tour-malaysia
+  type: master
+  prize_pool_bonus: $1,000
+
+-name: Summer Jam
+  location: Cherry Hill, NJ, USA
+  start_date: 08/30/2019 
+  end_state: 09/01/2019
+  url: https://bigegaming.com/
+  type: master
+  prize_pool_bonus: $5,000
